@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/4 Space Scraper.unity
     guid: d9fd67ec7dbae442194f5d71afff4907
   - enabled: 1
+    path: Assets/Scenes/1 Start Scene (TPR).unity
+    guid: 83653cad77b5b4a81b8d5535bf4b0321
+  - enabled: 1
     path: Assets/Scenes/2 The Past Remembrance.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:

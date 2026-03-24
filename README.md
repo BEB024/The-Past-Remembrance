@@ -4,7 +4,9 @@ An exciting virtual reality escape room game made in Unity 6.3. Created by Ibrah
 Story:
 A family, once of five, is no more. Their estate fell into ruin in a land far from civilization's reach. You, my dear player, are the "The Relative", the only proof that this once great family existed. What exists inside the abandoned mansion? That's for you to discover and find out.
 
-Bonus: 
+------------------------------------------
+
+Tutorial Game: 
 Includes a bonus game based on a tutorial by Valem Tutorials:
 Description
 This project is a VR escape game set inside a spaceship. The player is stranded in space and must interact with the environment, objects, and tools to progress.
@@ -85,3 +87,6 @@ Continue progressing through interactions
 
 GitHub Repository Link:
 https://github.com/BEB024/The-Past-Remembrance.git
+
+Google Drive Link (Video and Build):
+https://drive.google.com/drive/folders/1D1qiabW9mtGCwQnXQmEDJsoTGqk-fDoA?usp=drive_link

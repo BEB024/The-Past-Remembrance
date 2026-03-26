@@ -18,6 +18,8 @@ EditorBuildSettings:
     path: Assets/Scenes/2 The Past Remembrance.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 6289c53e0c04a4c1b82e9072f7d78950,
+      type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 98230ac78419f4e52822b6030676a610,
       type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 9f9e9e9b3af194c2a98a4c3601b7db4a,
